@@ -715,6 +715,7 @@ google.com github.com
 
 
 
+---
 ### 2. הריגת כל התליכים לפי שם (`kill_by_name.sh`)
 
 ### מה זה עושה
@@ -733,6 +734,7 @@ google.com github.com
 
 
 
+---
 3. סיכום מספר הקבצים, התיקיות והלינקים בתיקייה מסוימת (`dir_summary.sh`)
 
 ### מה זה עושה
@@ -751,6 +753,7 @@ google.com github.com
 
 
 
+---
 ### 4. ספירת שכיחות מילים בקובץ מסוים (`word_frequency.sh`)
 
 ### מה זה עושה
@@ -769,6 +772,7 @@ google.com github.com
 
 
 
+---
 ### 5. בדיקת קבצים שגודלם מעל סף מסוים (`large_files_checker.sh`)
 
 ### מה זה עושה 

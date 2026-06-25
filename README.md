@@ -243,7 +243,7 @@ google.com github.com
 ./scripts/clean_project.sh /path/to/my_workspace/my_project
 ```
 
-
+---
 
 ### אריאל לוין
 אחראי על כתיבת וניהול 5 הסקריפטים הבאים:
